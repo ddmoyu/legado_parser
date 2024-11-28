@@ -1,0 +1,14 @@
+[project]
+name = "legado"
+version = "0.1.0"
+description = "阅读书源规则解析库"
+readme = "README.md"
+authors = [
+    { name = "ddmoyu", email = "daydaymoyu@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
