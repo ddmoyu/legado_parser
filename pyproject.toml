@@ -1,7 +1,7 @@
 [project]
 name = "legado"
 version = "0.1.0"
-description = "阅读书源规则解析库"
+description = "阅读 Legado 书源规则的 python 解析库"
 readme = "README.md"
 authors = [
     { name = "ddmoyu", email = "daydaymoyu@gmail.com" }
